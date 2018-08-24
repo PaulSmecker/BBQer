@@ -40,19 +40,19 @@ As I say before, I don't think that we need to be an engineer with soldering ski
 
 You need to buy:
 
-1x [arduino nano (~3$)](https://ru.aliexpress.com/store/product/Arduino-Nano-3-0-Arduino-Nano-CH340-usb/1602024_32841140539.html?spm=a2g0v.12010615.0.0.7c3c4263StAGe8)
+1x [arduino nano (~3$)](https://aliexpress.com/store/product/Arduino-Nano-3-0-Arduino-Nano-CH340-usb/1602024_32841140539.html?spm=a2g0v.12010615.0.0.7c3c4263StAGe8)
 
-1x [arduino nano I/O extension board(~1$)](https://ru.aliexpress.com/item/1Pcs-I2C-NANO-I-O-Expansion-Sensor-Shield-Module-For-Arduino-UNO-R3-Nano-V3-0/32829846130.html)
+1x [arduino nano I/O extension board(~1$)](https://aliexpress.com/item/1Pcs-I2C-NANO-I-O-Expansion-Sensor-Shield-Module-For-Arduino-UNO-R3-Nano-V3-0/32829846130.html)
 
-1x [temperature sensor (K-type thermocouple with required amplifier)(~3$)](https://ru.aliexpress.com/item/MAX6675-Module-K-Type-Thermocouple-Temperature-Sensor/32698965438.html)
+1x [temperature sensor (K-type thermocouple with required amplifier)(~3$)](https://aliexpress.com/item/MAX6675-Module-K-Type-Thermocouple-Temperature-Sensor/32698965438.html)
 
-1x [blower fan(~2.5$)](https://ru.aliexpress.com/item/Brushless-DC-Blower-Cooling-Fan-Sleeve-Bearing-7525S-12V-0-18A-75x33mm-75mm/32731387269.html)
+1x [blower fan(~2.5$)](https://aliexpress.com/item/Brushless-DC-Blower-Cooling-Fan-Sleeve-Bearing-7525S-12V-0-18A-75x33mm-75mm/32731387269.html)
 
-1x [mosfet driver(~0.5$)](https://ru.aliexpress.com/item/TOP-MOSFET-Button-IRF520-MOSFET-Driver-Module-ARM-Raspberry-pi/32662485350.html)
+1x [mosfet driver(~0.5$)](https://aliexpress.com/item/TOP-MOSFET-Button-IRF520-MOSFET-Driver-Module-ARM-Raspberry-pi/32662485350.html)
 
-1x [wires (~3$)](https://ru.aliexpress.com/item/Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable-120x10cm/32729974130.html)
+1x [wires (~3$)](https://aliexpress.com/item/Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable-120x10cm/32729974130.html)
 
-1x [power converter (~1$)](https://ru.aliexpress.com/item/XL6009-DC-Adjustable-Step-up-boost-Power-Converter-Module-Replace-LM2577/32636472543.html)
+1x [power converter (~1$)](https://aliexpress.com/item/XL6009-DC-Adjustable-Step-up-boost-Power-Converter-Module-Replace-LM2577/32636472543.html)
 
 ##### Total: ~14$ (without delivery)
 (I recommend to use same supplier for faster delivery)
@@ -62,9 +62,9 @@ You need to buy:
 
 Also, you can optionally purchase:
 
-1x [servo (~3$)](https://ru.aliexpress.com/item/MG90S-Micro-Servo-RC/32843925047.html?spm=a2g0s.9042311.0.0.jh7MDU) for more fine aiflow control
+1x [servo (~3$)](https://aliexpress.com/item/MG90S-Micro-Servo-RC/32843925047.html?spm=a2g0s.9042311.0.0.jh7MDU) for more fine aiflow control
 
-1x [thermo probe (~7$)](https://ru.aliexpress.com/item/Thermopro-Thermometer-extra-probe/32778050836.html?spm=a2g0s.9042311.0.0.jh7MDU) for food(meat) temperature control. You can connect up to 8 probes.
+1x [thermo probe (~7$)](https://aliexpress.com/item/Thermopro-Thermometer-extra-probe/32778050836.html?spm=a2g0s.9042311.0.0.jh7MDU) for food(meat) temperature control. You can connect up to 8 probes.
 
 ![wiring](https://github.com/abuharsky/BBQer/raw/master/info/pic2.jpg)
 
